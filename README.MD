@@ -84,3 +84,21 @@ This course will help to understand how institutions works and our place in soci
 
 - Standard & Poor's 500 stock price index 
 - Used as a benchmark for returns
+
+**Comparaison S&P 500 vs Apple** - Can be used witin tradingview
+![](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/01.PNG?raw=true)
+
+**Monthly returns S&P 500 vs Apple** - Monthly returns, note the volatility and the pattern // to the s&p
+
+![](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/02.png?raw=true)
+
+## Variance of Apple vs Variance of S&P 500
+
+- Standard deviation (ecart-type) of Apple capital gain in a decade shown is 12.8% a month. -> we won money
+- Standard deviation (ecart-type) of S&P500 capital gain in a decade shown is 4.7% a year. -> we lost money
+
+**Standard deviation definition:**  It's a way to measure price volatility by relating a price range to its moving average
+
+**Tradinview Script** : https://www.tradingview.com/scripts/standarddeviation/
+
+![Scatter diagram](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/03.png?raw=true)
