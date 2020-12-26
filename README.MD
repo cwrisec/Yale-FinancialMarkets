@@ -185,8 +185,18 @@ https://www.youtube.com/watch?v=0mDgPDO8l5s
 
 ![Covariance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/09.png?raw=true) 
 
-**Beta**
+**Beta & CAPM**
 
 ![Beta](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/10.png?raw=true) 
 
+The beta of a potential investment is a measure of how much risk the investment will add to a portfolio that looks like the market. If a stock is riskier than the market, it will have a beta greater than one. If a stock has a beta of less than one, the formula assumes it will reduce the risk of a portfolio.
+
 > In fact the beta of the i stock is its covariance with the market divided by the variance of the return on the market. It's just a scaled covariance and the average beta has to be one, because I could substitute the average return on the assets. And that's the return of the market, so then the covariance of anything with itself is equal to the variance. It just equals one.
+
+-> if beta is low there is no return
+
+**Capital Asset Pricing Model (CAPM)**
+
+https://www.investopedia.com/terms/c/capm.asp
+
+![Beta](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/11.png?raw=true) 
