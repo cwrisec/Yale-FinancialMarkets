@@ -119,22 +119,33 @@ This course will help to understand how institutions works and our place in soci
 
 The class of 1954 in 1979 gave $370 000 and asked Joe McNay to invest for 25 years, he choose walmart, homedepot and some internet stocks now it's worth 90 million because they didn't want to look at the volatility
 
-### Distribution and Outliers (= abbérations)
+### **Distribution and Outliers (= abbérations)**
 
-**The distribution or Normal Law** 
+**The distribution or Normal Law or Normal Distribution** 
 
 2 parameters:
-- means (µ)
-- deviation (o)
+- means (µ) (ou moyenne en français)
+- deviation (o) (ou ecart-type en français)
+
+**Normal distribution have 2 tails(queues), finance doesn't tends to follow this distribution, that we tend to have outliers or fat tails**
 
 ![The distribution or Normal Law](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/04.png?raw=true)
 
-µ = 0
-o = 1 & 3
-
+- µ = 0
+- o = 1 & 3
+- the high means the probability to get to those value.
+  
 ![The distribution or Normal Law](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/05.png?raw=true)
 
 Explaination = https://www.youtube.com/watch?v=E4EdnaP-iCg
 
-µ = 10 mm
-o = 0.5 mm
+- µ = 10 mm
+- o = 0.5 mm
+
+**The Cauchy distribution** 
+
+- Famous mathematician
+- 100 draws (tirages) from normal distribution in blue
+- 100 draws from Cauchy distribution in red
+- 
+![The Cauchy distribution](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/06.png?raw=true)
