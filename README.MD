@@ -4,6 +4,18 @@
 
 ## **Week 1 - Lesson 1**
 
+### **Objectives**
+
+- Discuss the relevance of this course in everyday life and the importance of ethical judgements in finance.
+- Understand the main sources of risk a security is subject to, and the main methods used to evaluate risk of an entire portfolio.
+- Describe why an investment may be considered high risk, and the sources of the so called 'disaster risk.'
+- List the key events in the history of insurance, and how insurance differs between the state and national level in the U.S.
+- Identify the qualitative differences between the normal and fat tail distributions, and give examples of risk pooling, moral hazard and selection bias.
+- Understand the principle of risk diversification.
+- Explain the Capital Asset Pricing Model (CAPM), and the role of short-selling within the model.
+- Recall how to compute optimal risk-return portfolios.
+- Understand the concept of efficient frontier in portfolio management.
+
 ### **Welcome**
 
 Finance is:
@@ -102,3 +114,27 @@ This course will help to understand how institutions works and our place in soci
 **Tradinview Script** : https://www.tradingview.com/scripts/standarddeviation/
 
 ![Scatter diagram](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/03.png?raw=true)
+
+### **Joe McNay**
+
+The class of 1954 in 1979 gave $370 000 and asked Joe McNay to invest for 25 years, he choose walmart, homedepot and some internet stocks now it's worth 90 million because they didn't want to look at the volatility
+
+### Distribution and Outliers (= abbérations)
+
+**The distribution or Normal Law** 
+
+2 parameters:
+- means (µ)
+- deviation (o)
+
+![The distribution or Normal Law](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/04.png?raw=true)
+
+µ = 0
+o = 1 & 3
+
+![The distribution or Normal Law](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/05.png?raw=true)
+
+Explaination = https://www.youtube.com/watch?v=E4EdnaP-iCg
+
+µ = 10 mm
+o = 0.5 mm
