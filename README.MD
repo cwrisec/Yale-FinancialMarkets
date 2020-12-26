@@ -146,6 +146,17 @@ Explaination = https://www.youtube.com/watch?v=E4EdnaP-iCg
 
 - Famous mathematician
 - 100 draws (tirages) from normal distribution in blue
+  - have a pattern
 - 100 draws from Cauchy distribution in red
-- 
+  - we are not living in a fairly stable world whose risk I understand, but the problem is, there are these big events that occur from time to time.
+
+
 ![The Cauchy distribution](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/06.png?raw=true)
+
+**Central limit theorem** 
+
+- Averages of a large number of  independent identically distributed shocks (whose variance is finite) BUT it means:
+  - Can fail if the underlying shocks are fat tailed
+  - Can fail if the underlying shocks lose their independence 
+
+![Normal vs Cauchy distribution](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/07.png?raw=true)
