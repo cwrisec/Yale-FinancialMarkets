@@ -71,7 +71,7 @@ This course will help to understand how institutions works and our place in soci
 
   - VAR in finance means two things:
     - Variance
-    - Value at Risk 
+    - Value at Risk (VaR)
  - Invented after stock markets crash of 1987
  - **VaR or Value at Risk is a measure used by some finance people to quantify risk of an investment/portfolio and it's quoted in units of dollars for a given probability and time horizon**
  - **VaR or Value at Risk is usually quoted in units of $ for a given probability and time horizon**
@@ -172,3 +172,21 @@ Note the fat tails :
 **Outliers**
 
 - Normal distribution with same mean (µ) and standard deviation(o) as the historigram shown has a probability of a drop greater than 20% equal to 3*10^71 (means almost 0) but it's false read again black swans and others books from nassim taleb ;-)
+
+### **Covariance - COV**
+https://www.tradingview.com/scripts/covariance/
+https://www.abcbourse.com/apprendre/19_variance_covariance.html
+https://www.youtube.com/watch?v=0mDgPDO8l5s
+
+- Risk is determined by Covariance COV
+- Is useful in order to understand if there is a link / liaison between 2 assets (x & y), if near 0 = independant variables (linked)
+- it's a probability rate average (moyenne de % d'une probabilité) to compare investiments
+- It's Very important for **capital asset pricing model**
+
+![Covariance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/09.png?raw=true) 
+
+**Beta**
+
+![Beta](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/10.png?raw=true) 
+
+> In fact the beta of the i stock is its covariance with the market divided by the variance of the return on the market. It's just a scaled covariance and the average beta has to be one, because I could substitute the average return on the assets. And that's the return of the market, so then the covariance of anything with itself is equal to the variance. It just equals one.
