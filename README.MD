@@ -144,6 +144,7 @@ Explaination = https://www.youtube.com/watch?v=E4EdnaP-iCg
 
 **The Cauchy distribution** 
 
+- **Fat tail distribution**
 - Famous mathematician
 - 100 draws (tirages) from normal distribution in blue
   - have a pattern
@@ -159,4 +160,15 @@ Explaination = https://www.youtube.com/watch?v=E4EdnaP-iCg
   - Can fail if the underlying shocks are fat tailed
   - Can fail if the underlying shocks lose their independence 
 
-![Normal vs Cauchy distribution](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/07.png?raw=true)
+Note the fat tails :
+
+![Normal vs Cauchy distribution](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/07.png?raw=true) 
+
+- Example we can note the returns is between +/- 6%
+- We can also see the outliers for the 19 oct 87 and the 30 oct 1928
+
+![Normal vs Cauchy distribution](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/08.png?raw=true) 
+
+**Outliers**
+
+- Normal distribution with same mean (µ) and standard deviation(o) as the historigram shown has a probability of a drop greater than 20% equal to 3*10^71 (means almost 0) but it's false read again black swans and others books from nassim taleb ;-)
