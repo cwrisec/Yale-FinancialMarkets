@@ -77,13 +77,19 @@ This course will help to understand how institutions works and our place in soci
  - **VaR or Value at Risk is usually quoted in units of $ for a given probability and time horizon**
  - Example :
    -  1% one-year VaR/Value at Risk of $10 million
-   -  Translation : 1% of chance that a portfolio will lose $10 million in a year
+   -  Translation: 1% of chance that a portfolio will lose $10 million in a year
+   -  A 5% 3-month Value At Risk (VaR) of $1 million represents : 
+   - Translation: A 5% chance of the asset declining in value by $1 million during the 3-month time frame.
   
 ### **Stress tests**
 
 - **Method of assessing risks to firms or portfolios through the use of 3 scenarios**
-  
-  The idea of a stress test is that, let's look at a portfolio not just by its historical returns and how variable they are, but let's look at the details of the portfolio and **ask what vulnerabilities there are** for various kinds of financial crisis because what actually stresses firms the most are crisis, 
+
+- **Tries to incorporate all potential economic and financial crises, such as recessions, appreciation and depreciation of currency, liquidity crisis, etc.**
+- **Tries to incorporate all the interconnections between financial institutions.**
+- **Does not look at historical returns, and looks at all the details of the portfolios and their vulnerabilities during all sorts of potential financial crises.**
+
+---------------
 
 - Originally, term reffered to a medical procedure to test for cardiovascular fitness.
 - OFHEO started testing firms' ability to withstand economic crisis before the 2008 crisis, failed.
@@ -122,6 +128,8 @@ The class of 1954 in 1979 gave $370 000 and asked Joe McNay to invest for 25 yea
 ### **Distribution and Outliers (= abbérations)**
 
 **The distribution or Normal Law or Normal Distribution** 
+
+Normal distribution is not ok because not have outliers ! which represents the markets (not previsible)
 
 2 parameters:
 - means (µ) (ou moyenne en français)
@@ -185,7 +193,7 @@ https://www.youtube.com/watch?v=0mDgPDO8l5s
 
 ![Covariance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/09.png?raw=true) 
 
-**Beta & CAPM**
+### **Beta & CAPM**
 
 ![Beta](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/10.png?raw=true) 
 
@@ -193,10 +201,48 @@ The beta of a potential investment is a measure of how much risk the investment 
 
 > In fact the beta of the i stock is its covariance with the market divided by the variance of the return on the market. It's just a scaled covariance and the average beta has to be one, because I could substitute the average return on the assets. And that's the return of the market, so then the covariance of anything with itself is equal to the variance. It just equals one.
 
+**The measure of systematic risk is captured by the Beta**
 -> if beta is low there is no return
 
-**Capital Asset Pricing Model (CAPM)**
-
+### **Capital Asset Pricing Model (CAPM)**
 https://www.investopedia.com/terms/c/capm.asp
 
+
 ![Beta](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/11.png?raw=true) 
+
+**Market risk** Is the risk for an asset to experience losses due to factors that affect the entire stock market
+
+**idiosyncratic risk** Is the risk which is endemic to a specific asset and therefore not the market as a whole
+
+## **Week 1 - Lesson 3**
+
+### **Insurance Fundamentals**
+
+> **Policy** **holders** have a **contract** with the insurance company **to** **protect** **them** **against** certain **well defined risks** and for that they **pay** a **premium**, a regular payment which in exchange they protect them to the defined risks.
+
+#### **Fundamental Insurance Principles & Issues**
+
+- **Risk Pooling** (regroupement des risks) is the source of ALL value in insurance
+  - Mathematical formula (if not others risks, war, pandemic..)
+  
+  - Standard deviation formula for Insurance
+
+    ![Insurance Principles](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/12.png?raw=true) 
+
+    -  if *n* policies, each has independent probability *p* of a claim, then the number of claims follows the binominal distribution. The standard deviation of the fraction of policies that result in a claim is:
+
+    - p = probability of death
+    - n = number of policies 
+  - The number of death is almost null.
+ 
+ ### The concept of insurance relies on **the law of large numbers**: *as n get large, standard deviation approaches zero*.
+
+### Risk pooling is the source of all value in insurance
+
+ 2 factors can influence it:
+ 
+ - **moral hazard** : when people have an insurance and take more risks
+    > i have a fire insurance > "I don't care if the house burn"
+ - **selection bias** : my insurance covered more than what the real value of the house is. "I will burn the house and pretend it's ok".
+
+
