@@ -222,6 +222,12 @@ https://www.investopedia.com/terms/c/capm.asp
 
 #### **Fundamental Insurance Principles & Issues**
 
+![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/13.png?raw=true) 
+
+![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/14.png?raw=true) 
+
+![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/15.png?raw=true) 
+
 - **Risk Pooling** (regroupement des risks) is the source of ALL value in insurance
   - Mathematical formula (if not others risks, war, pandemic..)
   
@@ -258,3 +264,4 @@ https://www.investopedia.com/terms/c/capm.asp
 ![Crop Insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/01.jpg?raw=true) 
 
 ![Crop Insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/02.jpg?raw=true) 
+
