@@ -237,12 +237,21 @@ https://www.investopedia.com/terms/c/capm.asp
  
  ### The concept of insurance relies on **the law of large numbers**: *as n get large, standard deviation approaches zero*.
 
-### Risk pooling is the source of all value in insurance
+### **Risk pooling is the source of all value in insurance**
 
- 2 factors can influence it:
+**2 factors/issues can influence it:**
  
- - **moral hazard** : when people have an insurance and take more risks
+ - **moral hazard** (moral risk) :
+    > **dealt with partially by deductions and co-insurance**
+    > when people have an insurance and take more risks
     > i have a fire insurance > "I don't care if the house burn"
- - **selection bias** : my insurance covered more than what the real value of the house is. "I will burn the house and pretend it's ok".
+ - **selection bias** (exams, obligations...) :
+   > **dealt with by group policies, by testing and referrals, and by mandatory government insurance**
+   > my insurance covered more than what the real value of the house is. "I will burn the house and pretend it's ok".
 
+> Example: **crop insurance for famrmes** 
+> 
+> Problem: it's manipulable (cheat, lies (resell etc..), don't do the needful)
+> 
+> Solution: Weather insurance for farmers
 
