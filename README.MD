@@ -253,5 +253,8 @@ https://www.investopedia.com/terms/c/capm.asp
 > 
 > Problem: it's manipulable (cheat, lies (resell etc..), don't do the needful)
 > 
-> Solution: Weather insurance for farmers
+> Solution: Weather insurance for farmers in under-developed countries, where it's very important to know, and sensors to know when the seeds were planted and what's the ground quality, humidity etc...
 
+![Crop Insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/01.jpg?raw=true) 
+
+![Crop Insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/02.jpg?raw=true) 
