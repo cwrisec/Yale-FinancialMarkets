@@ -270,8 +270,26 @@ https://www.investopedia.com/terms/c/capm.asp
 - 1300s - **Burial societies ancient Rome,** true insurance policies appeared in Italy in 14th Century
 - Rapid development of **actuarial theory starting** in 1600s with notion of probability. (and the first life tables)
 - 1600s - **First life insurance and fire insurance**
-- 1840 - Morris Robinsson Mutual Life of NY - First door 2 door sales because insurances are not tangible for humans and easy to forget about the risks. **first sales**
-- 1880 - Henry Hyde Equitable Life Assurance Society : large cash value (pshychological farming) (if you don't pay anymore you loose the pot) - **first apparition of insurance + saving**
-- 1890 - Vivianna Zelizer : The sales pitch changed from challenging god to *"if your man die, he will be able to protect you from beyond the grave, i make it possible"*
+- Marketing 1840 - Morris Robinsson Mutual Life of NY - **First door 2 door sales** 
+- Marketing 1880 - Henry Hyde Equitable Life Assurance Society : large cash value (pshychological farming) (if you don't pay anymore you loose the pot) - **first apparition of insurance + saving**
+- Marketing 1890 - Vivianna Zelizer's study : The sales pitch changed from challenging god to *"if your man die, he will be able to protect you from beyond the grave, i make it possible"*
 
-  > Life insurance is a relic, of a day when people died young (or bet to..)
+  > **Life insurance is a relic, of a day when people died young (or bet to..)**
+
+  > *Why were people initially hesitant to adopt life insurance?*
+  >**It felt like gambling and  betting on the life of a loved one**
+
+![Life insurance timeline](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/life-insurance-history-timelines.jpg?raw=true)
+
+### **Insurance is a Local Phenomenon**
+
+
+- Federal Insurance Office (Dodd Frank) : Monitor insurance companies, looking for systemic risk.
+- States Insurance Guarantee Funds : 
+  - Most US states have guarantee funds protecting insurances against failure of the insurance company
+  - 1941 - The first state to set up such a fund was NY
+  - Goal : Protect indivudals only.
+
+![Insurance is a Local Phenomenon](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/16.png?raw=true)
+
+
