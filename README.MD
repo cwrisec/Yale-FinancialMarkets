@@ -222,12 +222,6 @@ https://www.investopedia.com/terms/c/capm.asp
 
 #### **Fundamental Insurance Principles & Issues**
 
-![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/13.png?raw=true) 
-
-![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/14.png?raw=true) 
-
-![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/15.png?raw=true) 
-
 - **Risk Pooling** (regroupement des risks) is the source of ALL value in insurance
   - Mathematical formula (if not others risks, war, pandemic..)
   
@@ -265,3 +259,19 @@ https://www.investopedia.com/terms/c/capm.asp
 
 ![Crop Insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/02.jpg?raw=true) 
 
+![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/13.png?raw=true) 
+
+![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/14.png?raw=true) 
+
+![Types of life insurance](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/15.png?raw=true)
+
+### **Insurance Milestones**
+
+- 1300s - **Burial societies ancient Rome,** true insurance policies appeared in Italy in 14th Century
+- Rapid development of **actuarial theory starting** in 1600s with notion of probability. (and the first life tables)
+- 1600s - **First life insurance and fire insurance**
+- 1840 - Morris Robinsson Mutual Life of NY - First door 2 door sales because insurances are not tangible for humans and easy to forget about the risks. **first sales**
+- 1880 - Henry Hyde Equitable Life Assurance Society : large cash value (pshychological farming) (if you don't pay anymore you loose the pot) - **first apparition of insurance + saving**
+- 1890 - Vivianna Zelizer : The sales pitch changed from challenging god to *"if your man die, he will be able to protect you from beyond the grave, i make it possible"*
+
+  > Life insurance is a relic, of a day when people died young (or bet to..)
