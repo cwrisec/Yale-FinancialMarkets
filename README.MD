@@ -223,7 +223,9 @@ https://www.investopedia.com/terms/c/capm.asp
 #### **Fundamental Insurance Principles & Issues**
 
 - **Risk Pooling** (regroupement des risks) is the source of ALL value in insurance
-  - Mathematical formula (if not others risks, war, pandemic..)
+  - Mathematical formula (if not others risks, 
+  - war, pandemic..)
+  **RISK POOLING : If individual events are independent, risk can be decreased by averaging across all of the events**
   
   - Standard deviation formula for Insurance
 
@@ -283,13 +285,69 @@ https://www.investopedia.com/terms/c/capm.asp
 
 ### **Insurance is a Local Phenomenon**
 
+> How to protect insurance default / bankruptcy?
 
-- Federal Insurance Office (Dodd Frank) : Monitor insurance companies, looking for systemic risk.
-- States Insurance Guarantee Funds : 
+- USA : Federal Insurance Office (Dodd Frank) : Monitor insurance companies, looking for systemic risk.
+- USA : States Insurance Guarantee Funds : 
   - Most US states have guarantee funds protecting insurances against failure of the insurance company
   - 1941 - The first state to set up such a fund was NY
   - Goal : Protect indivudals only.
 
 ![Insurance is a Local Phenomenon](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/16.png?raw=true)
 
+- China 
+  - CIRC - max 50 000 Yuan (not a lot...)
 
+> Food for thought : I think that governement interventions like for the 2008 GFC will not come again, and anti-cyclic measures will be implemented globally to spread the power of the big insurance firms... where Fintech & DeFi have their role to play...)
+> Too big to fail companies (see AIG)are a problem for a viable economical system interdependant and complex. 
+
+**US Governements Regulations of Insurance**
+
+- 1945 McCarran-Ferguson Act - Delegated insurance regulation to the 50 states/states regulators. -> Issue to normalize partially solved by the next point
+- NAIC / National Association of Insurance Comissioners creates standardized laws (Lobby?)
+- 1993 : NAIC adopted risk based capital requierements (collaterals)
+- 1999 : Financial Modernization act allow **banks to affiliate with insurance companies**
+
+**In europe : Insurance Europe's Reinsurance Advisory Board - RAB** - https://www.insuranceeurope.eu/ + Assuralia in belgium
+
+### **Health Insurance**
+
+- 1694 - First health insurance by Hugh the Elder Chamberlen
+- 1850 - First US Health Insurance : Franklin Health Insurance company of Massachussetts
+
+**The Health Maintenance Organization Act (HMO) of 1973**
+
+![The Health Maintenance Organization Act (HMO) of 1973](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/17.PNG?raw=true)
+
+*What was the key concern that led to the regulation of health insurance via the Health Maintenance Act of 1973?*
+> Doctors received money when people were sick, and thus they were not incentivized to cure people.
+
+**US Emergency Medical Treatment and Active Labor Act (EMTALA) of 1986**
+
+![US Emergency Medical Treatment and Active Labor Act (EMTALA) of 1986](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/18.PNG?raw=true)
+
+> Tax for everybody to cover emergency services
+> It's paid by the hospital if you can't pay it.
+
+**US Patient Protection and Affordable Care Act 2010 (Obamacare)**
+
+![ObamaCare](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/19.PNG?raw=true)
+
+Issues:
+- 45 millions people are uninsured > risk they will go to hospital if they are dying...implying they don't recieve preventive care
+- this system implies that if you leave the company > you have to find an insurer to cover you health > selection bias > medical test > higher monthly bills
+
+### **Disasters**
+
+- Hearthquake Insurance (2010 Haiti)
+- Flood Insurance (2010)
+- Wind Insurance (2010)
+- Terrorism Risk ()
+![Casualty Insurance in Haiti](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/20.PNG?raw=true)
+
+![Katrina](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/21.PNG?raw=true)
+
+![Terrorism](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/21.PNG?raw=true)
+
+*Before 9/11/2001, insurers:*
+Generally did not exclude terrorism risk, which they then saw as inconsequential. 
