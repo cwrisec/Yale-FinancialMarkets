@@ -351,3 +351,50 @@ Issues:
 
 *Before 9/11/2001, insurers:*
 Generally did not exclude terrorism risk, which they then saw as inconsequential. 
+
+## **Week 1 - Lesson 4 : Defining the best portfolio **
+
+CAPM (Capital Asset Pricing Model) is based on rational markets and rational investors, it links to behavourial finance.
+
+### **Calculate Beta Stock**
+
+  - See in the template folder how to calculate the beta of a stock.
+
+### **Short Sales**
+
+  - It means to have a negative quantity of a tradable asset
+  - 799 stocks in 2008 were abolished of being shorted due to the 1929 stock crisis fear
+
+
+# Quotes: 
+
+Andrew Carnegie - The business world selects for people with natural talents
+
+![Terrorism](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/22.PNG?raw=true)
+
+![Terrorism](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/23.PNG?raw=true)
+
+![Terrorism](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/24.PNG?raw=true)
+
+Efficient market :
+https://www.investopedia.com/terms/m/marketefficiency.asp
+
+Prospect theory : Théorie des perspectives: loss aversion
+https://www.youtube.com/watch?v=sM91d5I36Po&feature=emb_title
+https://en.wikipedia.org/wiki/Loss_aversion
+
+
+Heirdbehaviour : https://www.youtube.com/watch?v=L8aRm82r8l8
+
+![Terrorism](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/25.PNG?raw=true)
+
+
+![Terrorism](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/26.PNG?raw=true)
+
+![Terrorism](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/27.PNG?raw=true)
+
+![Wishful thinking](https://github.com/cwrisec/Yale-FinancialMarkets/blob/master/28.PNG?raw=true)
+
+![Terrorism](https://qph.fs.quoracdn.net/main-qimg-0660b89f818ef2ae6a4c4bf64dafbfedG?raw=true)  
+
+Compound interests : https://www.lucbrialy.com/interets-composes.html
